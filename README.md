@@ -1,5 +1,5 @@
 # Library Management System
-![Final-outcome](.\Pictures\Final-outcome.png)
+![Final-outcome](..\Pictures\Final-outcome.png)
 # Objective
 Create a web based user interface for library kiosk. This kiosk provides 4 types of services to Customer and Librarian;
 - **Search Book** This function allows Librarian and Customer to Search for a particular book in the database. Search criteria can be ISBN or Keyword in the book title
