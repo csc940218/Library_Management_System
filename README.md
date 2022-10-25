@@ -28,7 +28,7 @@ The Database store 3 sets of information, Book, Transaction Record and Users.
 ![Use Case Diagram](.\Pictures\use-case.png)
 
 # Entity Relationship Diagram
-![Entity Relationship Diagram](.\Pictures\ER-Diagram.png)
+![Entity Relationship Diagram](https://github.com/csc940218/Library_Management_System/blob/main/Pictures/ER-Diagram.png)
 
 # How to set up
 
