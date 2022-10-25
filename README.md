@@ -1,5 +1,5 @@
 # Library Management System
-![Final-outcome](https://github.com/csc940218/Library_Management_System/blob/main/Pictures/Final-outcome.png)
+![Final-outcome](https://github.com/xiuxiucui/Library_Management_System/blob/main/Pictures/Final-outcome.png)
 # Objective
 Create a web based user interface for library kiosk. This kiosk provides 4 types of services to Customer and Librarian;
 - **Search Book** This function allows Librarian and Customer to Search for a particular book in the database. Search criteria can be ISBN or Keyword in the book title
@@ -19,16 +19,16 @@ The Database store 3 sets of information, Book, Transaction Record and Users.
 
 
 # Wire-frame
-![Wire-frame](https://github.com/csc940218/Library_Management_System/blob/main/Pictures/wireframe.png)
+![Wire-frame](https://github.com/xiuxiucui/Library_Management_System/blob/main/Pictures/wireframe.png)
 
 # Activity Diagram
-![Activity Diagram](https://github.com/csc940218/Library_Management_System/blob/main/Pictures/activity-diagram.png)
+![Activity Diagram](https://github.com/xiuxiucui/Library_Management_System/blob/main/Pictures/activity-diagram.png)
 
 # Use Case Diagram
-![Use Case Diagram](https://github.com/csc940218/Library_Management_System/blob/main/Pictures/use-case.png)
+![Use Case Diagram](https://github.com/xiuxiucui/Library_Management_System/blob/main/Pictures/use-case.png)
 
 # Entity Relationship Diagram
-![Entity Relationship Diagram](https://github.com/csc940218/Library_Management_System/blob/main/Pictures/ER-Diagram.png)
+![Entity Relationship Diagram](https://github.com/xiuxiucui/Library_Management_System/blob/main/Pictures/ER-Diagram.png)
 
 # How to set up
 
