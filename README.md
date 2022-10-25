@@ -52,5 +52,5 @@ Install Maria DB and execute the SQL statement in **.\Database** Folder
 *need to change the connector setting in 
 **.\Backend\Root\Database\mariadb_context.py**
 
-## Windows
+## Docker
 Docker file building, please refer to other repo
